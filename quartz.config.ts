@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Rusty Gears",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -37,13 +37,13 @@ const config: QuartzConfig = {
           highlight: "rgba(143, 159, 169, 0.15)",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
+          light: "#16161d ",
+          lightgray: "#9aa5ca ",
+          gray: "#403D52",
+          darkgray: "#26233A",
+          dark: "#c0caf5",
+          secondary: "#364A82 ",
+          tertiary: "#EB6F92",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
       },
