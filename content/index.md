@@ -3,7 +3,9 @@ title: Rusty Gears
 ---
 
 ---- 
-> This is my personal blog for all sorts of projects. 
+> Place to share progress on my projects 
 
-
-### [[About Me]]
+#### Projects 
+- [[love-ecs]]  simple ecs framework made in lua using love2d library 
+---
+### ![[About Me]]
