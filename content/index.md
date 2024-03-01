@@ -1,10 +1,9 @@
 ---
-title: Welcome to Quartz
+title:
 ---
 
-# Rusty Gears
 ---- 
 > This is my personal blog for all sorts of projects. 
 
 
-# [[About Me]]
+### [[About Me]]
