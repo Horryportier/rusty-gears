@@ -34,7 +34,7 @@ I wanted to implement something like that but without caring about all that rust
 Thats why I choose Lua the better language #IndexStartsAt1
 
 ## What do we need
-- World
+- [[World]]
 - Entity
 - Component
 - System
